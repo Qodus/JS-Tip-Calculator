@@ -25,7 +25,7 @@ hr {
 
 div {
     line-height: 2.5em;
-    margin: 50px 0;
+    margin: 20px 0;
 }
 
 #billTotal {
@@ -34,4 +34,8 @@ div {
 #totalEach {
     font-size: 2em;
     font-weight: bold;
+}
+
+input {
+    display: flex;
 }
