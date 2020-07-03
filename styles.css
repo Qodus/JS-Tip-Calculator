@@ -1,0 +1,37 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ff6447;
+    color: #fff;
+    font-family: Helvetica, Arial, sans-serif;
+    width: 100%;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    font-size: 2em;
+}
+
+hr {
+    color: #fff;
+    margin: 50px 0;
+}
+
+#container {
+    width: 500px;
+}
+
+div {
+    line-height: 2.5em;
+    margin: 50px 0;
+}
+
+#billTotal {
+    color: #ff6447;
+}
+#totalEach {
+    font-size: 2em;
+    font-weight: bold;
+}
